@@ -1,0 +1,16 @@
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\BlackJackClassLibraryTests.dll
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\BlackJackClassLibraryTests.pdb
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\BlackJackClassLibrary.dll
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\BlackJackClassLibrary.pdb
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Lab2_CL1\BlackJackClassLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Lab2_CL1\BlackJackClassLibraryTests\obj\Debug\BlackJackClassLibraryTests.csprojAssemblyReference.cache
+E:\Lab2_CL1\BlackJackClassLibraryTests\obj\Debug\BlackJackClassLibraryTests.csproj.CoreCompileInputs.cache
+E:\Lab2_CL1\BlackJackClassLibraryTests\obj\Debug\BlackJackClassLibraryTests.csproj.CopyComplete
+E:\Lab2_CL1\BlackJackClassLibraryTests\obj\Debug\BlackJackClassLibraryTests.dll
+E:\Lab2_CL1\BlackJackClassLibraryTests\obj\Debug\BlackJackClassLibraryTests.pdb

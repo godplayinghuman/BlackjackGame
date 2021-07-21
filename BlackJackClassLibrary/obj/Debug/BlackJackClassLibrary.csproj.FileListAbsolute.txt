@@ -1,0 +1,6 @@
+E:\Lab2_CL1\BlackJackClassLibrary\bin\Debug\BlackJackClassLibrary.dll
+E:\Lab2_CL1\BlackJackClassLibrary\bin\Debug\BlackJackClassLibrary.pdb
+E:\Lab2_CL1\BlackJackClassLibrary\obj\Debug\BlackJackClassLibrary.csprojAssemblyReference.cache
+E:\Lab2_CL1\BlackJackClassLibrary\obj\Debug\BlackJackClassLibrary.csproj.CoreCompileInputs.cache
+E:\Lab2_CL1\BlackJackClassLibrary\obj\Debug\BlackJackClassLibrary.dll
+E:\Lab2_CL1\BlackJackClassLibrary\obj\Debug\BlackJackClassLibrary.pdb

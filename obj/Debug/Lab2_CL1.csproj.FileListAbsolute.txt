@@ -1,0 +1,8 @@
+D:\Lab2_CL1\obj\Debug\Lab2_CL1.csprojAssemblyReference.cache
+D:\Lab2_CL1\obj\Debug\Lab2_CL1.csproj.CoreCompileInputs.cache
+E:\Lab2_CL1\obj\Debug\Lab2_CL1.csprojAssemblyReference.cache
+E:\Lab2_CL1\obj\Debug\Lab2_CL1.csproj.CoreCompileInputs.cache
+E:\Lab2_CL1\bin\Debug\Lab2_CL1.dll
+E:\Lab2_CL1\bin\Debug\Lab2_CL1.pdb
+E:\Lab2_CL1\obj\Debug\Lab2_CL1.dll
+E:\Lab2_CL1\obj\Debug\Lab2_CL1.pdb

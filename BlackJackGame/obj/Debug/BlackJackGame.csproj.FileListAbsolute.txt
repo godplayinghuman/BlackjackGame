@@ -1,0 +1,10 @@
+E:\Lab2_CL1\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+E:\Lab2_CL1\BlackJackGame\bin\Debug\BlackJackGame.exe
+E:\Lab2_CL1\BlackJackGame\bin\Debug\BlackJackGame.pdb
+E:\Lab2_CL1\BlackJackGame\bin\Debug\BlackJackClassLibrary.dll
+E:\Lab2_CL1\BlackJackGame\bin\Debug\BlackJackClassLibrary.pdb
+E:\Lab2_CL1\BlackJackGame\obj\Debug\BlackJackGame.csprojAssemblyReference.cache
+E:\Lab2_CL1\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+E:\Lab2_CL1\BlackJackGame\obj\Debug\BlackJackGame.csproj.CopyComplete
+E:\Lab2_CL1\BlackJackGame\obj\Debug\BlackJackGame.exe
+E:\Lab2_CL1\BlackJackGame\obj\Debug\BlackJackGame.pdb
